@@ -14,7 +14,7 @@ print "d=",d
 if d<0:
     print "нч╫Б"
 else:
-        x1=(-1.0*b+math.sprt(d))/(2*a)
+        x1=(-1.0*b+math.sqrt(d))/(2*a)
         x2=(-1.0*b-math.sqrt(d))/(2*a)
         print x1,x2
 
